@@ -1,0 +1,4 @@
+[03-Dec-2020 20:22:40 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/place-menus/list-place-menus.php on line 22
+[03-Dec-2020 20:22:40 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 20:22:40 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 20:22:40 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/place-menus/list-place-menus.php on line 124

@@ -1,0 +1,4 @@
+[03-Dec-2020 19:58:56 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/nutritions/list-nutritions.php on line 21
+[03-Dec-2020 19:58:56 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 19:58:56 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 19:58:56 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/nutritions/list-nutritions.php on line 117

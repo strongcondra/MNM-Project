@@ -1,0 +1,8 @@
+[03-Dec-2020 19:57:50 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/additional-items/new-additional-item.php on line 33
+[03-Dec-2020 19:57:50 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 19:57:50 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 19:57:50 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/additional-items/new-additional-item.php on line 138
+[03-Dec-2020 19:58:59 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/additional-items/list-additional-items.php on line 21
+[03-Dec-2020 19:58:59 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 19:58:59 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 19:58:59 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/additional-items/list-additional-items.php on line 116

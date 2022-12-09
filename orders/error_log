@@ -1,0 +1,9 @@
+[03-Dec-2020 12:41:16 Africa/Harare] PHP Parse error:  syntax error, unexpected 'is_array' (T_STRING) in /home/anesusixwaresco/public_html/includes/functions.php on line 766
+[03-Dec-2020 19:52:08 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/orders/list-orders.php on line 21
+[03-Dec-2020 19:52:08 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 19:52:08 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 19:52:08 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/orders/list-orders.php on line 121
+[03-Dec-2020 19:53:35 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/orders/list-orders.php on line 21
+[03-Dec-2020 19:53:35 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 19:53:35 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 19:53:35 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/orders/list-orders.php on line 121

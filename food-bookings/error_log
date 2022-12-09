@@ -1,0 +1,8 @@
+[03-Dec-2020 19:52:12 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/food-bookings/list-food-bookings.php on line 20
+[03-Dec-2020 19:52:12 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 19:52:12 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 19:52:12 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/food-bookings/list-food-bookings.php on line 120
+[03-Dec-2020 19:55:42 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/food-bookings/list-food-bookings.php on line 20
+[03-Dec-2020 19:55:42 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 19:55:42 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 19:55:42 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/food-bookings/list-food-bookings.php on line 120

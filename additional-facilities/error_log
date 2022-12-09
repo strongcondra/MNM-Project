@@ -1,0 +1,16 @@
+[03-Dec-2020 19:56:01 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/additional-facilities/list-additional-facilities.php on line 21
+[03-Dec-2020 19:56:01 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 19:56:01 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 19:56:01 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/additional-facilities/list-additional-facilities.php on line 117
+[03-Dec-2020 19:56:05 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/additional-facilities/new-additional-facility.php on line 34
+[03-Dec-2020 19:56:05 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 19:56:05 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 19:56:05 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/additional-facilities/new-additional-facility.php on line 139
+[03-Dec-2020 19:57:00 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/additional-facilities/new-additional-facility.php on line 34
+[03-Dec-2020 19:57:00 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 19:57:00 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 19:57:00 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/additional-facilities/new-additional-facility.php on line 139
+[03-Dec-2020 20:27:58 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/additional-facilities/list-additional-facilities.php on line 21
+[03-Dec-2020 20:27:58 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 20:27:58 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 20:27:58 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/additional-facilities/list-additional-facilities.php on line 117

@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www.memorieesmaker.com/application [NC]
+RewriteRule ^(.*)$ http://memorieesmaker.com/application/$1 [L,R=301]

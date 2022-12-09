@@ -1,0 +1,12 @@
+[03-Dec-2020 19:52:10 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/transactions/list-transactions.php on line 21
+[03-Dec-2020 19:52:10 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 19:52:10 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 19:52:10 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/transactions/list-transactions.php on line 118
+[03-Dec-2020 20:27:55 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/transactions/list-transactions.php on line 21
+[03-Dec-2020 20:27:55 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 20:27:55 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 20:27:55 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/transactions/list-transactions.php on line 118
+[03-Dec-2020 20:28:06 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/transactions/list-transactions.php on line 21
+[03-Dec-2020 20:28:06 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 20:28:06 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 20:28:06 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/transactions/list-transactions.php on line 118

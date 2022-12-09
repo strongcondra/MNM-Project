@@ -1,0 +1,16 @@
+[03-Dec-2020 19:55:39 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/bookings/list-bookings.php on line 21
+[03-Dec-2020 19:55:39 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 19:55:39 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 19:55:39 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/bookings/list-bookings.php on line 121
+[03-Dec-2020 19:55:41 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/bookings/list-bookings.php on line 21
+[03-Dec-2020 19:55:41 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 19:55:41 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 19:55:41 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/bookings/list-bookings.php on line 121
+[03-Dec-2020 19:55:46 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/bookings/list-bookings.php on line 21
+[03-Dec-2020 19:55:46 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 19:55:46 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 19:55:46 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/bookings/list-bookings.php on line 121
+[03-Dec-2020 19:55:55 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/bookings/list-bookings.php on line 21
+[03-Dec-2020 19:55:55 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 5
+[03-Dec-2020 19:55:55 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/includes/sidebar.php on line 6
+[03-Dec-2020 19:55:55 Africa/Harare] PHP Notice:  Undefined variable: application_name in /home/anesusixwaresco/public_html/bookings/list-bookings.php on line 121
